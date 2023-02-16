@@ -1,4 +1,4 @@
-num = 100
+num = 300
 i = 1
 
 while i <= num:
